@@ -1,6 +1,6 @@
 ---
-title: Introduction
-description: How to use Zustand
+title: 소개
+description: Zustand 사용방법
 nav: 0
 ---
 
@@ -8,10 +8,9 @@ nav: 0
   <img src="https://github.com/pmndrs/zustand/raw/main/bear.jpg" />
 </div>
 
-A small, fast, and scalable bearbones state management solution.
-Zustand has a comfy API based on hooks.
-It isn't boilerplatey or opinionated,
-but has enough convention to be explicit and flux-like.
+Zustand는 작고 빠르며 확장 가능한 간편한 상태 관리 솔루션입니다. 
+Zustand는 훅(hooks)을 기반으로 한 편리한 API를 제공하며, 복잡한 설정 없이도 사용할 수 있습니다. 
+특정한 방식에 얽매이지 않으면서도 명확하고 flux와 같은 구조를 가지고 있습니다.
 
 Don't disregard it because it's cute, it has claws!
 Lots of time was spent to deal with common pitfalls,
