@@ -38,7 +38,7 @@ npm install zustand
 
 ## First create a store
 
-Your store is a hook!
+Your store is a hook!???
 You can put anything in it: primitives, objects, functions.
 The `set` function _merges_ state.
 
